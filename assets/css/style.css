@@ -1,0 +1,16 @@
+* {
+    border: border-box;
+    margin: auto;
+}
+
+#heading {
+    background-color: blue;
+}
+
+#instructions {
+border: 1px solid black;
+}
+
+.crystals {
+    height: 200px;
+}
