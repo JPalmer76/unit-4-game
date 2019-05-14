@@ -1,11 +1,22 @@
+
+body {
+    background-image: url(../images/black-background-blue-close-up-604684.jpg);
+    width: 960px;
+    height: 1200px;
+}
+
+
+
+
+
 .heading {
   border: 1px solid black;
-  height: 100px;
+  height: 130px;
   width: 400px;
   background-color: orangered;
   color: white;
-  text-align: left;
-  padding-top: 35px;
+  text-align: center;
+  padding-top: 20px;
   font-size: 20px;
 }
 
