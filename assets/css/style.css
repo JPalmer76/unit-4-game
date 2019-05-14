@@ -2,7 +2,7 @@
 body {
     background-image: url(../images/black-background-blue-close-up-604684.jpg);
     width: 960px;
-    height: 1200px;
+    height: 1300px;
 }
 
 
@@ -67,4 +67,25 @@ ul {
   display: inline-block;
   position: absolute;
   right: 0;
+}
+
+#total-score {
+    margin-top: 10px;
+    border: 1px solid white;
+    width: 480px;
+    background-color: darkolivegreen;
+    color: white;
+    font-size: 28px;
+    padding: 20px;
+}
+
+#end {
+    margin-top: 10px;
+    border: 1px solid white;
+    width:480px;
+    height: 200px;
+    background-color: darkolivegreen;
+    font-size: 60px;
+    color: white;
+    padding: 20px;
 }
