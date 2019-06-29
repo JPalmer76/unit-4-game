@@ -12,6 +12,7 @@ $(document).ready(function() {
     playerTotal = playerTotal + purpleCrystal;
     $("#final").text(playerTotal);
     winChecker();
+    console.log(purpleCrystal)
   });
 
   // orange crystal set to a random value betwen 1 and 12
